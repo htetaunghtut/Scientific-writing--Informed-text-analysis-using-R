@@ -1,1 +1,1 @@
-# Scientific-writing-:Informed-text-analysis-using-Rxt-analysis
+# Scientific-writing-:Informed-text-analysis-using-R
